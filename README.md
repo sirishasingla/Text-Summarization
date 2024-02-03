@@ -16,4 +16,4 @@ after cloning this repository to your local environment run following commands
 4. Review the Result: The summarized text will be displayed in the second column. Additionally, you'll see the word count of the generated summary.
 
 ## Snapshots
-![alt text](image.png)
+![alt text](image-1.png)
